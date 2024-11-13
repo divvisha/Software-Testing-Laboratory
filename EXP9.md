@@ -29,7 +29,7 @@ def test_2():
 ```
 
 ### Output:
-![image](https://github.com/user-attachments/assets/ff5c36a4-3c05-4aa5-bce1-31eeb88910db)
+![Screenshot 2024-11-13 113419](https://github.com/user-attachments/assets/2dcdcacb-0f5b-4f48-9e09-192a032964a6)
 
 ### Result:
 Thus, the python program for sum of digits is tested using pytest and executed and output is verified successfully.
